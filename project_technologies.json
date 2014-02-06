@@ -4,13 +4,13 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Cinder, Leapmotion"
         ]
     },
     "themes": [
-        "insert themes"
+        "Particles, Interactivity, Shaders"
     ]
 }
