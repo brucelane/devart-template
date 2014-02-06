@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Play Game Services API v1"
         ],
         "platforms": [
             "Windows"
