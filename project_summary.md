@@ -1,5 +1,4 @@
-# Project Title
-Reymenta
+# Reymenta
 
 ## Authors
 - Bruce Lane https://github.com/brucelane
