@@ -1,5 +1,5 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Developping a Cinder C++ project using interaction with a leap motion device.
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+Graphics are made with openGL shaders, drawn in real-time, with parameters (uniform variables) controlled by the leap device.
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
